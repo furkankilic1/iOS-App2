@@ -36,5 +36,6 @@
 ![ch1](https://user-images.githubusercontent.com/58864953/146443252-ae4873d2-be89-487f-af84-7da39a0f5ffd.png)
 
 
-### You need to download charts pod cocoapods on your computer to run the project
+
+* You need to download Cocoapods Charts library on your computer to run the project.
 
